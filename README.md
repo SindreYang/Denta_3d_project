@@ -157,6 +157,8 @@ Denta_3d_project_private/
 
 #### 6.1 义齿分割 (`denture_seg/`)
 
+![牙弓分割](temp/denture_seg.png)
+
 - **功能**: 全口义齿网格分割
 - **特点**:
   - 集MeshSeg等多种分割方案
